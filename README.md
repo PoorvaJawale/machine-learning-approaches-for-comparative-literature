@@ -4,7 +4,6 @@ This repository contains research work and implementations exploring how **machi
 
 The repository includes experiments, models, and supporting code used for analyzing textual data using machine learning methods.
 
----
 
 # 📖 Project Overview
 
@@ -14,7 +13,6 @@ With the advancement of **Natural Language Processing (NLP)** and **Machine Lear
 
 This project explores how machine learning methods can be used to support **comparative literary analysis** by extracting features, identifying similarities, and analyzing stylistic variations between texts.
 
----
 
 # 🎯 Objectives
 
@@ -26,7 +24,6 @@ The main goals of this project are:
 * Understand patterns in writing style, themes, and linguistic features
 * Evaluate the effectiveness of computational methods in literary comparison
 
----
 
 # 🛠️ Technologies Used
 
@@ -36,7 +33,6 @@ The main goals of this project are:
 * NumPy
 * Natural Language Processing (NLP) techniques
 
----
 
 # 📂 Project Structure
 
@@ -50,7 +46,6 @@ machine-learning-approaches-for-comparative-literature/
 └── README.md             # Project documentation
 ```
 
----
 
 # ⚙️ Methodology
 
@@ -80,7 +75,6 @@ The project generally follows the following workflow:
 
    * Evaluate similarities and differences between literary works.
 
----
 
 # 📊 Expected Outcomes
 
@@ -91,7 +85,6 @@ This project aims to demonstrate how machine learning can assist in:
 * Supporting digital humanities research
 * Enhancing large-scale literary analysis
 
----
 
 # 👩‍💻 Author
 
@@ -100,7 +93,6 @@ This project aims to demonstrate how machine learning can assist in:
 Engineering Student
 Interested in **Machine Learning, Artificial Intelligence, and Computational Applications in Research**
 
----
 
 # 📌 Note
 
